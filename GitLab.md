@@ -1,8 +1,6 @@
-Claro! Vamos começar a preencher os conteúdos das aulas. Vou iniciar com o Módulo 1 e aos poucos vou completando os demais módulos. 
 
----
 
-# Curso de GitLab
+# GitLab
 
 ## Módulo 1: Introdução ao GitLab
 
