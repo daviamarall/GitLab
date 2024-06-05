@@ -281,5 +281,3 @@ deploy_job:
   - **SourceTree**: Interface gráfica para Git e Mercurial.
 
 ---
-
-Este é o conteúdo completo do curso de GitLab. Cada seção pode ser expandida com mais detalhes, exemplos práticos, e exercícios conforme necessário. Se precisar de mais alguma coisa ou de ajustes no conteúdo, é só avisar!
