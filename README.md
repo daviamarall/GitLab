@@ -100,5 +100,3 @@ Este curso foi desenvolvido para fornecer uma compreensão abrangente do GitLab,
 Sinta-se à vontade para contribuir com o curso, sugerir melhorias ou relatar problemas. Vamos aprender e evoluir juntos!
 
 ---
-
-Espero que este README seja útil! Se precisar de mais alguma coisa, é só avisar.
