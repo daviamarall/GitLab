@@ -18,7 +18,7 @@ Este curso foi desenvolvido para fornecer uma compreensão abrangente do GitLab,
 
 ## Módulo 1: Introdução ao GitLab
 
-- **[Aula 1.1: O que é o GitLab?]([modulo1/aula1.1.md](https://github.com/daviamarall/GitLab/blob/main/GitLab.md#aula-11-o-que-%C3%A9-o-gitlab))**
+- **[Aula 1.1: O que é o GitLab?](https://github.com/daviamarall/GitLab/blob/main/GitLab.md#aula-11-o-que-%C3%A9-o-gitlab)**
   - Definição e história do GitLab.
   - Diferença entre GitLab, GitHub e Bitbucket.
   
